@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Barcelona",
+    "country_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Madrid",
+    "country_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Valencia",
+    "country_id": 1
+  },
+  {
+    "id": 4,
+    "name": "London",
+    "country_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Liverpool",
+    "country_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Birmingham",
+    "country_id": 2
+  },
+  {
+    "id": 7,
+    "name": "Portland",
+    "country_id": 3
+  },
+  {
+    "id": 8,
+    "name": "San Francisco",
+    "country_id": 3
+  },
+  {
+    "id": 9,
+    "name": "Denver",
+    "country_id": 3
+  },
+  {
+    "id": 10,
+    "name": "Paris",
+    "country_id": 4
+  }
+]
